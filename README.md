@@ -1,5 +1,4 @@
-<meta name="description" content="This is my web site made with jekyll on github pages.">
-<meta name="author" content="Kiefer">
+
 
 ## Kiefer Sivitz
 <div class="top-hero">
