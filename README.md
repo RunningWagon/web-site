@@ -5,15 +5,11 @@
 <div class="top-hero">
     <img class="img-circle" src="img/person2.jpg" alt="">
     <br />
-    <span class="skills">Web Developer - SEO Expert - User Experience Designer</span>
+    <span class="skills">I am a Web Developer and I own a picture of some seagulls</span>
 </div>
 
-<img src="img/portfolio/mobile-dashboard-ipad-field-engineer-form-messages.png" class="img-rounded img-medium" alt="Cabin">
-<img src="img/portfolio/appointmentScheduler.png" class="img-rounded img-medium" alt="Slice of cake">
-<img src="img/portfolio/content-aggregator-twitter-twitch.png" class="img-rounded img-medium" alt="Circus tent">
 
 
-I am a Web Developer and I own a picture of some seagulls
 
 ### Get at us:
 
