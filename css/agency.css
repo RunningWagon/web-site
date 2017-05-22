@@ -11,7 +11,7 @@ body {
   color: #777777;
 }
 .text-primary {
-  color: #fed136;
+  color: #000000;
 }
 p {
   font-size: 14px;
@@ -28,7 +28,7 @@ a.active {
   outline: none;
 }
 a {
-  color: #fed136;
+  color: #000000;
 }
 a:hover,
 a:focus,
@@ -58,7 +58,7 @@ h6 {
 .btn-primary {
   color: white;
   background-color: #fed136;
-  border-color: #fed136;
+  border-color: #000000;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
